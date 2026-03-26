@@ -118,3 +118,19 @@ body {
     padding: 10px;
     text-align: left;
 }
+
+/* Table styling */
+#education-table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+#education-table, #education-table th, #education-table td {
+    border: 1px solid #0033a0;
+}
+
+#education-table th, #education-table td {
+    padding: 10px;
+    text-align: left;
+}
